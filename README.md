@@ -1,36 +1,58 @@
 # BondSeed
 
-BondSeed is an independently maintained project for everyday parent-child communication. This is its official public project page.
+**Practical help for everyday parent–child conversations.**
 
-**Visit the website: [www.bondseed.com](https://www.bondseed.com/)**
+English · [简体中文](README.zh-CN.md)
 
-Parents and caregivers of children ages 6–18 can use practical tools, example wording, and printable worksheets for ordinary family moments. Adapt the words to your family; a short answer or a wish to talk later is welcome.
+I'm McFly Shi, a dad who started with little cards to make after-school conversations easier. Today, BondSeed brings together free tools, daily conversation starters, Guides, and printables for parents and caregivers of children ages 6–18.
 
-[中文介绍](#关于-bondseed一位父亲的故事) · [English introduction](#about-bondseed-a-fathers-story)
+**[Visit BondSeed](https://www.bondseed.com/?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_hero)** · [Project introduction](https://mcflysj.github.io/bondseed-home/)
 
-## 关于 BondSeed：一位父亲的故事
+[![BondSeed tools homepage with a situation finder and communication toolboxes for parents.](assets/tools-2026-10-22.png)](https://www.bondseed.com/?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_tools_image)
 
-你好，我叫 Shi，是 BondSeed 的创办人，也是一名普通的父亲。我不是育儿专家，也没有心理学方面的专业资质。在这里，我想分享的，是十八年来陪伴儿子成长的亲身经历，以及一路走来的体会与思考。
+## Find a place to start
 
-从他出生、牙牙学语，到运动、学习，再到如今去异地上大学，我曾经熟悉的日常，渐渐变成了远方的牵挂。一年里能陪在彼此身边的日子少了，也让我有了更多时间，回望我们一起走过的路。
+- **Not sure what to say?** [Try a daily conversation starter.](https://www.bondseed.com/today?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_start)
+- **Facing a tricky moment?** [Find a practical Guide.](https://www.bondseed.com/articles?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_start)
+- **Want something to take away?** [Print the free after-school cards.](https://www.bondseed.com/resources/one-small-moment-after-school?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_start)
 
-这十八年，有快乐，也有迷茫、困扰和不知所措。我犯过错，也常常需要重新学习如何做父亲。如今，看着儿子成长为一个善良、独立的人，我感到欣慰，也心怀感激。在陪伴他的过程中，我同样从他身上学到了很多。他在长大，我也在学习成为更好的父亲。
+## See what you can try
 
-BondSeed 的起点，藏在一件很小的日常里。
+### Start with one small question
 
-儿子上小学时，每天接他放学，我都希望能和他聊得开心一些，却时常不知道该如何开口。后来，我开始把想和他聊的话题写在一张张小卡片上。这些卡片寄托着一个简单的愿望：多了解他的世界，也让我们有更多愿意与彼此分享的时刻。
+Today offers a daily conversation starter, with suggestions for ages 6–12 and 13–18. Try one at dinner or during an unhurried moment together.
 
-如今，有了更多可以自己支配的时间，我想把这些卡片，以及多年来的经历和思考，慢慢整理出来，分享给同样在寻找交流方式的家长。这便是我创建 BondSeed 的初衷。
+[![Today page showing a family-rule conversation starter, age groups, and a short preparation guide.](assets/today-2026-10-22.png)](https://www.bondseed.com/today?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_today_image)
 
-网站里的内容以我的个人经验为基础。我也会参考相关书籍和文献，结合自己的经历，整理出值得尝试的话题与方法。每个孩子、每个家庭都有自己的样子；我希望这些分享能给你一些启发，帮助你找到适合自己和孩子的相处方式。
+[Try Today →](https://www.bondseed.com/today?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_today)
 
-养育孩子从来不是一件轻松的事。谢谢你来到这里，愿意为与孩子的关系多花一点心思。欢迎你在这段旅程中与我同行。我会继续用心打磨 BondSeed，也愿我们在忙碌与困惑之间，都能多一些倾听与理解，和孩子一起，看见成长路上的美好风景。
+### Find words for a real moment
 
-— Shi · BondSeed 创办人
+Browse practical Guides on listening, everyday routines, difficult conversations, and more. Find example wording and steps you can adapt to your family.
 
-## About BondSeed: A Father's Story
+[![BondSeed Guides page with topic filters, search, and practical parenting articles.](assets/guides-2026-10-22.png)](https://www.bondseed.com/articles?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_guides_image)
 
-Hi, I'm Shi, the founder of BondSeed and an ordinary dad. I'm not a parenting expert, and I don't have professional qualifications in psychology. What I bring here is eighteen years of growing alongside my son, and the experiences and reflections I've gathered along the way.
+[Explore the Guides →](https://www.bondseed.com/articles?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_guides)
+
+### Bring a little card along
+
+The free after-school pack includes four conversation questions and a listening guide for ages 6–12. Download two printable pages in A4 or US Letter.
+
+[![Free after-school conversation cards page with a question card and A4 and US Letter PDF downloads.](assets/after-school-2026-10-22.png)](https://www.bondseed.com/resources/one-small-moment-after-school?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_after-school_image)
+
+[Get the free conversation cards →](https://www.bondseed.com/resources/one-small-moment-after-school?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_after-school)
+
+*Actual screenshots from bondseed.com · October 22, 2026.*
+
+## Free resources and the course
+
+Tools, worksheets, Today, and Guides are free without an account. The nine-skill communication course includes a complete free first chapter. Lifetime access unlocks Chapters 2–9 and future course updates.
+
+[Read the free first chapter](https://www.bondseed.com/courses/chapter1?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_course)
+
+## Why I created BondSeed
+
+Hi, I'm McFly Shi, the founder of BondSeed and an ordinary dad. I'm not a parenting expert, and I don't have professional qualifications in psychology. What I bring here is eighteen years of growing alongside my son, and the experiences and reflections I've gathered along the way.
 
 From his first days and first words to sports and school, I've watched my son grow. Now he's at university away from home. The everyday moments we once shared have given way to missing him from a distance. We have fewer days together each year, and I find myself looking back more often on the years that brought us here.
 
@@ -46,28 +68,18 @@ The content here grows out of my experience as a father. I also read relevant bo
 
 Parenting asks a lot of us. Thank you for being here and for making time to care for your relationship with your child. I'm glad to have your company on this journey. I'll keep working on BondSeed with care, and I hope that, even in the busy and uncertain parts of family life, we can make a little more room for listening and understanding, and enjoy the good moments as we grow alongside our children.
 
-— Shi · Founder of BondSeed
+— McFly Shi · Founder of BondSeed
 
-## Find a useful next step
+## Content, privacy, and contact
 
-- [Free parenting tools](https://www.bondseed.com/): nine situations, from listening and encouragement to clear limits and repairing conflict.
-- [Today](https://www.bondseed.com/today): daily conversation starters for ages 6–12 and 13–18.
-- [Practical Guides](https://www.bondseed.com/articles): complete help with specific parenting situations.
-- [Communication course](https://www.bondseed.com/courses): nine skills, with a complete free first chapter.
-- [Free after-school printable](https://www.bondseed.com/resources/one-small-moment-after-school): conversation cards and a listening guide for ages 6–12.
+I publish under the BondSeed name and take responsibility for editing, references, and corrections. The resources offer general communication education. Examples are for you to adapt; they are not promises of a particular outcome.
 
-Tools, worksheets, Today, and Guides are free without an account. Course Chapters 2–9 require lifetime access.
+Worksheet entries stay in the current browser tab; download or print them before leaving. If you use the situation finder, your description is sent to an AI service to match existing resources. Leave out names, schools, and contact details.
 
-## Publishing and references
+[About BondSeed](https://www.bondseed.com/about?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_policy) · [Editorial Policy](https://www.bondseed.com/editorial-policy?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_policy) · [Sources & references](https://www.bondseed.com/sources?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_policy) · [Privacy](https://www.bondseed.com/privacy-policy?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_policy)
 
-BondSeed is responsible for the content published under its name, including references and corrections. Its resources provide general communication education. Example conversations are illustrations to adapt, and no phrase guarantees a particular response.
+Questions, ideas, or a correction? [contact@bondseed.com](mailto:contact@bondseed.com)
 
-Read [About BondSeed](https://www.bondseed.com/about), [Sources and Evidence](https://www.bondseed.com/sources), and the [Editorial Policy](https://www.bondseed.com/editorial-policy) for scope, public reference standards, and corrections.
+If something here helps, you're welcome to share the relevant resource with another parent. A small, useful idea can be a good place to begin.
 
-## Privacy and contact
-
-Worksheet entries stay in the current browser tab and are not sent to BondSeed or saved to an account. Download or print them before leaving. See the [Privacy Policy](https://www.bondseed.com/privacy-policy) for site and account data.
-
-For corrections and site questions, email [contact@bondseed.com](mailto:contact@bondseed.com). Avoid posting children's names or private family information in public GitHub discussions.
-
-[Public introduction](https://mcflysj.github.io/bondseed-home/) · [Official website](https://www.bondseed.com/)
+**[Explore BondSeed](https://www.bondseed.com/?utm_source=github&utm_medium=referral&utm_campaign=bondseed_home&utm_content=en_readme_closing)**
